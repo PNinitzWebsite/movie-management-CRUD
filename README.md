@@ -3,7 +3,7 @@
 ผมใช้ nvm use node 16
 
 Run Server.js | backend
-ื- npm start
+- npm start
 
 Server จะมี 4 ส่วน CRUD
 1. GET endpoint to fetch movies (get /api/movies)
